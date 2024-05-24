@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 
-    A full-stack developer with in-depth experience in both frontend and backend technologies.
+    A talented web developer with in-depth experience in blockchain.
 
 - :telescope: Seeking to leverage my expertise to contribute to innovative projects and drive business success.
 
